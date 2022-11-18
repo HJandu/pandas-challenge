@@ -189,5 +189,12 @@ In section, I created a table that breaks down school performance based on schoo
 
 ### Analysis
 
+1) looking at the school performances based on average Spending Ranges, we can see that children who fell in the less than $585 spending range, scored higher results in comparision to those children who had a budget in the range of $645 - 680.
+
+2) Schools with less than 1000 students performed better in their Maths and Reading, compared to school that had more than 2000 students. The performance of Schools that had less than 2000 students, were very close in figures to schools with less than 1000 students.
+
+3) Children who attended Charter schools, performed really well in their maths and reading, compared to children who attened District schools. The difference between the two overall passing percentage is extremely apart, where Charter school has an overall pass percentage of 90.43% and District with an overall pass percentage 53.67%.
+
+4) Although more children in schools would mean having a higher budget, having less children in a school or smaller teaching groups would mean that children would be given quality teaching as the teacher could provide more 1:1 support, resulting to higher scores in maths and reading.
 
 

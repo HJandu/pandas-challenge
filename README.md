@@ -1,4 +1,4 @@
-# Pandas Challenge
+ # <p align="center"> <ins>Pandas Challenge</ins>
 
 ## PyCitySchool
 
@@ -22,7 +22,7 @@ The raw data given are every student's math and reading scores, as well as vario
 ----
 
 
-### District Summary
+### <ins>District Summary</ins>
 
 I was asked to create a high-level snapshot of the district's key metrics in a DataFrame, which included the following:
 
@@ -46,7 +46,7 @@ I was asked to create a high-level snapshot of the district's key metrics in a D
 
 ---
 
-### School Summary
+  ### <ins>School Summary</ins>
 I also created a DataFrame that summarises key metrics about each school, including the following:
 
 * School name
@@ -74,7 +74,7 @@ I also created a DataFrame that summarises key metrics about each school, includ
 
 ---
 
-### Highest-Performing Schools (by % Overall Passing)
+### <ins>Highest-Performing Schools (by % Overall Passing)</ins>
 Here I created a DataFrame that highlights the top-5 performing schools based on % Overall Passing. This DataFrame included the following metrics:
 
 * School name
@@ -103,7 +103,7 @@ Here I created a DataFrame that highlights the top-5 performing schools based on
 
 ---
 
-### Lowest-Performing Schools (by % Overall Passing)
+### <ins>Lowest-Performing Schools (by % Overall Passing)</ins>
 This DataFrame highlights the bottom-5 performing schools based on % Overall Passing. It includes the following metrics:
 
 * School name
@@ -132,7 +132,7 @@ This DataFrame highlights the bottom-5 performing schools based on % Overall Pas
 
 ---
 
-### Math Scores by Grade
+### <ins>Math Scores by Grade</ins>
 Here I created a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Math Scores by Grade Data File** >> [Click here](Output/maths_score_grade.csv)
@@ -141,7 +141,7 @@ Here I created a DataFrame that lists the average math score for students of eac
 
 ---
 
-### Reading Scores by Grade
+### <ins>Reading Scores by Grade</ins>
 Here I created a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Reading Scores by Grade Data File** >> [Click here](Output/reading_score_by_grade.csv)
@@ -150,7 +150,7 @@ Here I created a DataFrame that lists the average reading score for students of 
 
 ---
 
-### Scores by School Spending
+### <ins>Scores by School Spending</ins>
 
 Here you can see a table I created that breaks down school performance based on average spending ranges (per student). I used my own judgment to create four bins with reasonable cutoff values to group school spending. The DataFrame includes the following metrics:
 
@@ -170,7 +170,7 @@ Here you can see a table I created that breaks down school performance based on 
 
 ---
 
-### Scores by School Size
+### <ins>Scores by School Size</ins>
 Here I created a table that breaks down school performance based on school size (small, medium, or large).
 
 **Scores by School Size Data File** >> [Click here](Output/scores_by_school_size.csv)
@@ -179,7 +179,7 @@ Here I created a table that breaks down school performance based on school size 
 
 ---
 
-### Scores by School Type
+### <ins>Scores by School Type</ins>
 In section, I created a table that breaks down school performance based on school type (district or charter).
 
 
@@ -187,9 +187,9 @@ In section, I created a table that breaks down school performance based on schoo
 
 ---
 
-### Analysis
+### <ins>Analysis</ins>
 
-1) looking at the school performances based on average Spending Ranges, we can see that children who fell in the less than $585 spending range, scored higher results in comparision to those children who had a budget in the range of $645 - 680.
+1) Looking at the school performances based on average Spending Ranges, we can see that children who fell in the less than $585 spending range, scored higher results in comparision to those children who had a budget in the range of $645 - 680.
 
 2) Schools with less than 1000 students performed better in their Maths and Reading, compared to school that had more than 2000 students. The performance of Schools that had less than 2000 students, were very close in figures to schools with less than 1000 students.
 
